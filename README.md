@@ -1,7 +1,7 @@
 # damas-pizza
 Projeto de Desenvolvimento de Páginas Web com Framework e CSS.
 # Protótipo
-https://www.figma.com/file/eAqoUfk48D9jzxcrL2TVsL/dominos?type=design&node-id=0%3A1&mode=design&t=Rn2NgjndDXHsAn08-1
+https://www.figma.com/file/sBoSlvk2F73mNCvreatK97/damaspizza?type=design&node-id=0%3A1&mode=design&t=dRoTEzQVkVc3qUDF-1
 # Cheklist
 RA1 - Utilizar Frameworks CSS para estilização de elementos HTML e criação de layouts responsivos.
 ID1 - Implementa um layout responsivo de uma página web utilizando um Framework CSS, como Bootstrap, Materialize ou Tailwind, que se adapta adequadamente a diferentes tamanhos de tela e dispositivos.
